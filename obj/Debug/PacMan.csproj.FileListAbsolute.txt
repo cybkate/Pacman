@@ -1,0 +1,11 @@
+D:\homework\PacMan\PacMan\bin\Debug\PacMan.exe.config
+D:\homework\PacMan\PacMan\bin\Debug\PacMan.exe
+D:\homework\PacMan\PacMan\bin\Debug\PacMan.pdb
+D:\homework\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+D:\homework\PacMan\PacMan\obj\Debug\PacMan.csproj.SuggestedBindingRedirects.cache
+D:\homework\PacMan\PacMan\obj\Debug\MazeGenerator.resources
+D:\homework\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+D:\homework\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.cache
+D:\homework\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+D:\homework\PacMan\PacMan\obj\Debug\PacMan.exe
+D:\homework\PacMan\PacMan\obj\Debug\PacMan.pdb
